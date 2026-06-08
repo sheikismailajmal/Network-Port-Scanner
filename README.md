@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Cyber Security](https://img.shields.io/badge/Cyber-Security-red)
+![GUI](https://img.shields.io/badge/GUI-Tkinter-green)
+![License](https://img.shields.io/badge/License-Educational-orange)
+
 # Network Port Scanner
 
 A Python-based Network Port Scanner with a graphical user interface (GUI) built using Tkinter. This project allows users to scan target hosts, identify open ports, detect common services, perform banner grabbing, store scan history, and export scan results.
