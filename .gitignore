@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+scans.db
+scan.log
+scan_results.csv
+
+.vscode/
